@@ -1,4 +1,4 @@
-# mars-review
+# Web Scraping and Pandas: Mar's Weather
 
 <h2>Instructions</h2>
 <h3>Part 1: Scrape Titles and Preview Text from Mars News</h3>
